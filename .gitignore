@@ -1,0 +1,5 @@
+influxdb/data/
+kapacitor/data/
+chronograf/data/
+*.log
+.env
